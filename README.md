@@ -18,5 +18,4 @@ You can view the live demo of the website [here](https://abirc0928.github.io/int
 
 ## Developed Using
 * Programing Languages: HTML, CSS, JavaScript
-* Alert/Popup: boxes: SweetAlert2 [link](https://sweetalert2.github.io/)
 
