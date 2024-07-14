@@ -5,7 +5,7 @@ This project is a responsive website for an interior design company. It features
 
 ## Visit Website
 
-You can view the live demo of the website [here](https://jubayer254.github.io/Interior-Design-Landing-Page/).
+You can view the live demo of the website [here](https://abirc0928.github.io/interior_design/).
 
 ## Features
 
