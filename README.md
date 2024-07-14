@@ -14,7 +14,6 @@ You can view the live demo of the website [here](https://abirc0928.github.io/int
 - Dynamic pricing for service packages
 - Interactive showcase of interior designs
 - Detailed information about services, team, and packages
-- Contact form with validation
 
 ## Developed Using
 * Programing Languages: HTML, CSS, JavaScript
